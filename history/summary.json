@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 902,
-    "timeDay": 902,
-    "timeWeek": 902,
-    "timeMonth": 902,
-    "timeYear": 902,
+    "time": 862,
+    "timeDay": 862,
+    "timeWeek": 862,
+    "timeMonth": 862,
+    "timeYear": 862,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Broken Site",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "slug": "test-broken-site",
+    "status": "down",
+    "uptime": "19.29%",
+    "uptimeDay": "19.29%",
+    "uptimeWeek": "19.29%",
+    "uptimeMonth": "19.29%",
+    "uptimeYear": "19.29%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-04-20": 0
+    }
   }
 ]
