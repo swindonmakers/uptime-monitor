@@ -15,7 +15,7 @@ status-website:
   baseUrl: /uptime-monitor
   logoUrl: https://raw.githubusercontent.com/swindonmakers/Logo/master/swindon-makerspace-logo-360x120.png
   name: Swindon Makerspace
-  introTitle: ""
+  introTitle: "Uptime Monitoring"
   introMessage: ""
   navbar:
     - title: Status
