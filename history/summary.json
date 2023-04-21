@@ -22,19 +22,19 @@
     "url": "http://minecraft.rpmdp.com",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.rpmdp.com.ico",
     "slug": "ha-proxy",
-    "status": "down",
-    "uptime": "69.29%",
-    "uptimeDay": "69.29%",
-    "uptimeWeek": "69.29%",
-    "uptimeMonth": "69.29%",
-    "uptimeYear": "69.29%",
-    "time": 132,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "status": "up",
+    "uptime": "66.01%",
+    "uptimeDay": "66.01%",
+    "uptimeWeek": "66.01%",
+    "uptimeMonth": "66.01%",
+    "uptimeYear": "66.01%",
+    "time": 145,
+    "timeDay": 145,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2023-04-21": 16
+      "2023-04-21": 19
     }
   }
 ]
