@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.swindon-makerspace.org.ico",
     "slug": "swindon-makerspace-website",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1987,
-    "timeDay": 3266,
-    "timeWeek": 2579,
-    "timeMonth": 1987,
-    "timeYear": 1987,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 2025,
+    "timeDay": 3291,
+    "timeWeek": 2543,
+    "timeMonth": 2025,
+    "timeYear": 2025,
     "dailyMinutesDown": {
       "2023-04-21": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1219,
-    "timeDay": 1346,
-    "timeWeek": 1245,
-    "timeMonth": 1219,
-    "timeYear": 1219,
+    "time": 1204,
+    "timeDay": 1025,
+    "timeWeek": 1205,
+    "timeMonth": 1204,
+    "timeYear": 1204,
     "dailyMinutesDown": {}
   }
 ]
