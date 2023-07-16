@@ -24,9 +24,9 @@
     "url": "https://forum.swindon-makerspace.org/",
     "icon": "https://icons.duckduckgo.com/ip3/forum.swindon-makerspace.org.ico",
     "slug": "swindon-makerspace-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 1176,
     "timeMonth": 1244,
     "timeYear": 1229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-16": 0
+    }
   }
 ]
