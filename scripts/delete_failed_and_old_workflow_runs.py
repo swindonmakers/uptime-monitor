@@ -5,7 +5,7 @@ from datetime import datetime
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
 REPO_OWNER = "swindonmakers"
-REPO_NAME = "uptime"
+REPO_NAME = "uptime-monitor"
 API_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}"
 RATE_LIMIT_ALLOWANCE = 5000
 RATE_LIMIT_THRESHOLD = int(RATE_LIMIT_ALLOWANCE * 0.8)  # 80%
