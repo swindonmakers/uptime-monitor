@@ -1,7 +1,7 @@
 url: https://www.swindon-makerspace.org/
-status: up
-code: 200
-responseTime: 663
-lastUpdated: 2025-06-21T23:03:45.065Z
+status: down
+code: 500
+responseTime: 656
+lastUpdated: 2025-06-22T19:22:56.653Z
 startTime: 2023-04-20T21:49:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
