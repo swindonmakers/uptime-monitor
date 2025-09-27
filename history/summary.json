@@ -4,7 +4,7 @@
     "url": "https://www.swindon-makerspace.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.swindon-makerspace.org.ico",
     "slug": "swindon-makerspace-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
@@ -16,6 +16,7 @@
     "timeMonth": 1857,
     "timeYear": 1145,
     "dailyMinutesDown": {
+      "2025-09-27": 0,
       "2025-09-24": 27,
       "2025-09-23": 5,
       "2025-09-17": 45,
